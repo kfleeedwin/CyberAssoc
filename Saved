@@ -1,0 +1,94 @@
+Purpose of Cybersecurity (or security): 
+The practice of ensuring confidentiality, integrity, and availability of information by protecting networks, devices, people, and data from unauthorized access or criminal exploitation
+
+--
+
+Security frameworks are guidelines used for building plans to help mitigate risks and threats to data and privacy.
+Frameworks have four core components and understanding them will allow you to better manage potential risks. 
+
+Identifying and documenting security goals 
+
+Setting guidelines to achieve security goals 
+
+Implementing strong security processes
+
+Monitoring and communicating results
+
+Compliance is the process of adhering to internal standards and external regulations.
+
+--
+
+CISSP security domains
+
+Security and risk management
+Asset security.
+Security architecture and engineering
+Communication and network security
+Identity and access management
+Security assessment and testing
+Security operations
+Software development security.
+
+--
+
+Security ethics are guidelines for making appropriate decisions as a security professional. Being ethical requires that security professionals remain unbiased and maintain the security and confidentiality of private data. Having a strong sense of ethics can help you navigate your decisions as a cybersecurity professional so you’re able to mitigate threats posed by threat actors’ constantly evolving tactics and techniques. 
+
+--
+
+All organizations must develop their security posture. Security posture is an organization’s ability to manage its defense of critical assets and data and react to change. Elements of the security and risk management domain that impact an organization's security posture include:
+
+Security goals and objectives
+
+Risk mitigation processes
+
+Compliance
+  
+Business continuity plans
+
+Legal regulations
+
+Professional and organizational ethics
+
+--
+
+Security frameworks are guidelines used for building plans to help mitigate risk and threats to data and privacy. Frameworks support organizations’ ability to adhere to compliance laws and regulations. 
+
+--
+
+Security controls are safeguards designed to reduce specific security risks. Security controls are the measures organizations use to lower risk and threats to data and privacy.
+
+--
+
+The CIA triad is a model that helps inform how organizations consider risk when setting up systems and security policies. It is made up of three elements that cybersecurity analysts and organizations work toward upholding: confidentiality, integrity, and availability. Maintaining an acceptable level of risk and ensuring systems and policies are designed with these elements in mind helps establish a successful security posture, which refers to an organization’s ability to manage its defense of critical assets and data and react to change. 
+
+Confidentiality is the idea that only authorized users can access specific assets or data. In an organization, confidentiality can be enhanced through the implementation of design principles, such as the principle of least privilege. The principle of least privilege limits users' access to only the information they need to complete work-related tasks. Limiting access is one way of maintaining the confidentiality and security of private data. 
+
+Integrity is the idea that the data is verifiably correct, authentic, and reliable. Having protocols in place to verify the authenticity of data is essential. One way to verify data integrity is through 
+cryptography, which is used to transform data so unauthorized parties cannot read or tamper with it (NIST, 2022). Another example of how an organization might implement integrity is by enabling encryption, which is the process of converting data from a readable format to an encoded format. Encryption can be used to prevent access and ensure data, such as messages on an organization's internal chat platform, cannot be tampered with.  
+
+Availability is the idea that data is accessible to those who are authorized to use it. When a system adheres to both availability and confidentiality principles, data can be used when needed. In the workplace, this could mean that the organization allows remote employees to access its internal network to perform their jobs. It’s worth noting that access to data on the internal network is still limited, depending on what type of access employees need to do their jobs. If, for example, an employee works in the organization’s accounting department, they might need access to corporate accounts but not data related to ongoing development projects. 
+
+--
+
+NIST CSF focuses on five core functions: identify, protect, detect, respond, and recover. 
+
+These core functions help organizations manage cybersecurity risks, implement risk management strategies, and learn from previous mistakes. Basically, when it comes to security operations, NIST CSF functions are key for making sure an organization is protected against potential threats, risks, and vulnerabilities. 
+
+
+--
+
+OWASP security principles. 
+
+Minimize attack surface area: Attack surface refers to all the potential vulnerabilities a threat actor could exploit.
+
+Principle of least privilege: Users have the least amount of access required to perform their everyday tasks.
+
+Defense in depth: Organizations should have varying security controls that mitigate risks and threats.
+
+Separation of duties: Critical actions should rely on multiple people, each of whom follow the principle of least privilege. 
+
+Keep security simple: Avoid unnecessarily complicated solutions. Complexity makes security difficult. 
+
+Fix security issues correctly: When security incidents occur, identify the root cause, contain the impact, identify vulnerabilities, and conduct tests to ensure that remediation is successful.
+
+--
